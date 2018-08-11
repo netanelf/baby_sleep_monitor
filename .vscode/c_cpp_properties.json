@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/netanel/.arduino15/packages/esp8266/tools/**",
+                "/home/netanel/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/**"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "/home/netanel/.arduino15/packages/esp8266/",
+                    "/home/netanel/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/cores/esp8266"
+                ]
+            },
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
